@@ -56,5 +56,3 @@ If you have any issues, please [let us know on GitHub](https://github.com/hoangs
 Special thanks to [N8n nodemation](https://n8n.io) workflow automation by Jan Oberhauser.
 
 Nodes by [codetheworld.io](https://codetheworld.io). For productive use and consulting on this, [contact us please](mailto:hoang.dv@outlook.com).
-
-This node was programmed with :heart: by Hoang Dinh Van [hoangsetup](https://github.com/hoangsetup)
